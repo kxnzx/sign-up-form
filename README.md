@@ -29,11 +29,11 @@ Users should be able to:
 
 #### Screensize 1440px - Desktop
 
-![Desktop](images/Desktop.gif)
+<img src="images/Desktop.gif"  width="250">
 
 #### Screensize 375px - Mobile
 
-![Mobile](images/Mobile.gif)
+<img src="images/Mobile.gif"  width="250">
 
 ### Links
 
