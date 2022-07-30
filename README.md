@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- View my Solution on [Frontend Mentor]()
-- View the Live Site [here]()
+- View my Solution on [Frontend Mentor](https://www.frontendmentor.io/solutions/sign-up-component-with-vanilla-javascript-zo1ya9jns6)
+- View the Live Site [here](https://kxnzx.github.io/sign-up-form/)
 
 ## My process
 
