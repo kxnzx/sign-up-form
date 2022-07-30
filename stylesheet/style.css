@@ -35,7 +35,6 @@ body {
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: auto;
-    grid-gap: 1.375rem;
     max-width: 90rem;
   }
 }
@@ -128,12 +127,6 @@ legend {
   border: 1px solid hsl(246deg, 25%, 77%);
   font-weight: 700;
   margin-bottom: 0.25rem;
-}
-@media only screen and (min-width: 1024px) {
-  .box input {
-    padding: 1.375rem;
-    font-size: 1rem;
-  }
 }
 .box .errorIcon {
   position: absolute;
