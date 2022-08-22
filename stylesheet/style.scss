@@ -30,6 +30,24 @@ $tablet: 768px;
 $xl_tablet: 960px;
 $desktop: 1024px;
 // RESET
+html {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+  margin: 0;
+  padding: 0;
+  max-width: 100%;
+}
 // Remove border fieldset
 fieldset {
   border: none;
